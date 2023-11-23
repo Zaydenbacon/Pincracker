@@ -1,6 +1,6 @@
 # Pincracker
 git clone https://github.com/Zaydenbacon/Pincracker
 
-cd an_pincracker
+cd pincracker
 
 bash Pincracker.sh
