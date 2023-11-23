@@ -7,7 +7,7 @@ echo -e "\e[34m      / _ \ |  \| |   | |_) | ||  \| |  _ \| |_) | | | | | | |  _
 echo -e "\e[34m     / ___ \| |\  |   |  __/| || |\  | |_) |  _ <| |_| | | | | |___|  _ <    " 
 echo -e "\e[34m    /_/   \_\_| \_|___|_|  |___|_| \_|____/|_| \_\\___/  |_| |_____|_| \_\   "
 echo -e "\e[34m                 |_____|                                                    "
-echo -e "                                                         -----AUTHER : \e[36m@MR_KALI_HACKER"
+echo -e "                                                         -----AUTHER : \e[36m@Zaydenbacon"
 
 
 echo -e "\e[33m"
@@ -26,7 +26,7 @@ read ll
 
 echo -e "\e[33m"
 echo -e "\e[33m :::::::::::::::::::::::::::"
-echo -e "\e[5m  INSTA ID : @mr_kali_hacker\e[25m"
+echo -e "\e[5m  INSTA ID : @Zaydenbacon\e[25m"
 echo -e "\e[33m :::::::::::::::::::::::::::"
 echo -e "\e[33m"
 
@@ -85,7 +85,7 @@ then
     echo -e "\e[34m     / ___ \| |\  |   |  __/| || |\  | |_) |  _ <| |_| | | | | |___|  _ <    " 
     echo -e "\e[34m    /_/   \_\_| \_|___|_|  |___|_| \_|____/|_| \_\\___/  |_| |_____|_| \_\   "
     echo -e "\e[34m                 |_____|                                                    "
-    echo -e "                                                         -----AUTHER : \e[36m@MR_KALI_HACKER"
+    echo -e "                                                         -----AUTHER : \e[36m@Zaydenbacon"
     echo -e "\e[33m"
     echo -e "\e[33m :::::::::::::::::::::::::::"
     echo -e "\e[5m  INSTA ID : @mr_kali_hacker\e[25m"
@@ -124,7 +124,7 @@ then
     echo -e "                                                         -----AUTHER : \e[36m@MR_KALI_HACKER"
     echo -e "\e[33m"
     echo -e "\e[33m :::::::::::::::::::::::::::"
-    echo -e "\e[5m  INSTA ID : @mr_kali_hacker\e[25m"
+    echo -e "\e[5m  INSTA ID : @Zaydenbacon\e[25m"
     echo -e "\e[33m :::::::::::::::::::::::::::"
     echo -e "\e[33m"
     echo -e "\e[1m ::::::::::::::::::::::"
@@ -160,7 +160,7 @@ then
     echo -e "                                                         -----AUTHER : \e[36m@MR_KALI_HACKER"
     echo -e "\e[33m"
     echo -e "\e[33m :::::::::::::::::::::::::::"
-    echo -e "\e[5m  INSTA ID : @mr_kali_hacker\e[25m"
+    echo -e "\e[5m  INSTA ID : @Zaydenbacon\e[25m"
     echo -e "\e[33m :::::::::::::::::::::::::::"
     echo -e "\e[33m"
     echo -e "\e[1m ::::::::::::::::::::::"
@@ -194,7 +194,7 @@ else
   echo -e "                                                         -----AUTHER : \e[36m@MR_KALI_HACKER"
   echo -e "\e[33m"
   echo -e "\e[33m :::::::::::::::::::::::::::"
-  echo -e "\e[5m  INSTA ID : @mr_kali_hacker\e[25m"
+  echo -e "\e[5m  INSTA ID : @Zaydenbacon\e[25m"
   echo -e "\e[33m :::::::::::::::::::::::::::"
   echo -e "\e[33m"
   echo -e "\e[33m[*]FOLLOW ME ON INSTAGRAM, AND MESSAGE ME ANY TIME FOR ANY HELP"
